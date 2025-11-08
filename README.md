@@ -1,4 +1,4 @@
-#  [Thiago Bernardo Campos]  
+#  Thiago Bernardo Campos  
 
 > Estudante de Eletrônica | Foco em Engenharia Aeroespacial | Apaixonado por tecnologia, programação e projetos maker.  
 
@@ -39,8 +39,8 @@ Atualmente, estudando mais sobre:
 
 ## 🌎 Onde me encontrar
 
-📫 **Email:** [campos.th@proton.me]  
-💼 **LinkedIn:** [(https://www.linkedin.com/in/thiago-b-campos/)]  
-💻 **GitHub:** [(https://github.com/Thiago-b-Campos)]  
+📫 **Email:** campos.th@proton.me  
+💼 **LinkedIn:** https://www.linkedin.com/in/thiago-b-campos/ 
+💻 **GitHub:** https://github.com/Thiago-b-Campos
 
 ---
