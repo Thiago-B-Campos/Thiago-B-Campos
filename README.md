@@ -2,7 +2,7 @@
 
 > Estudante de Eletrônica | Foco em Engenharia Aeroespacial | Apaixonado por tecnologia, programação e projetos maker.  
 
-Sou estudante técnico em Eletrônica na ETEC e tenho interesse em engenharia, automação e desenvolvimento de tecnologias que conectam o mundo físico e o digital. Gosto de criar, projetar e simular sistemas eletrônicos, máquinas e ideias que possam ser aplicadas no futuro da engenharia aeroespacial.  
+Sou estudante técnico em Eletrônica na ETEC e tenho interesse em engenharia, automação e desenvolvimento de tecnologias. Gosto de criar, projetar e simular sistemas eletrônicos, máquinas e ideias que possam ser aplicadas no futuro da engenharia aeroespacial.  
 
 ---
 
