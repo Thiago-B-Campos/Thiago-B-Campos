@@ -1,48 +1,101 @@
-#  Thiago Bernardo Campos  
+# Hi, I'm Thiago Bernardo Campos.
 
-> Estudante de Eletrônica | Foco em Engenharia Aeroespacial | Apaixonado por tecnologia, programação e projetos maker.  
+Aspiring Aerospace Engineer focused on electronics, embedded systems, control systems, and aerospace technology.
 
-Sou estudante técnico em Eletrônica na ETEC e tenho interesse em engenharia, automação e desenvolvimento de tecnologias. Gosto de criar, projetar e simular sistemas eletrônicos, máquinas e ideias que possam ser aplicadas no futuro da engenharia aeroespacial.  
-
----
-
-## ⚙️ Habilidades Técnicas
-
-- **Linguagens:** C, C++, C#, Python e HTML  
-- **Áreas:** Eletrônica, Lógica de Programação, Modelagem 3D, Automação e Sistemas Maker  
-- **Ferramentas:** Fusion 360, TinkerCAD, FreeCAD, Logisim, VS Code, Git  
+Currently studying Electronics at ETEC.
 
 ---
 
-## 🔬 Projetos em Desenvolvimento  
+## About Me
 
-🧩 **CNC Virtual 5 Eixos**  
-Simulação e modelagem de uma máquina CNC automatizada desenvolvida para estudo de precisão mecânica e controle computacional.  
-
-🌬️ **Mini Gerador Eólico Doméstico (Simulado)**  
-Modelagem e simulação de um sistema de geração de energia eólica de baixo custo, voltado à aplicação residencial e educacional.  
-
-🧠 **Simulador de Processador Caseiro**  
-Projeto lógico desenvolvido em Logisim para demonstrar a arquitetura básica de um processador.  
+* Electronics technician student at ETEC
+* Interested in aerospace engineering, drones, rockets, and control systems
+* Passionate about embedded systems, hardware development, and engineering projects
 
 ---
 
-## 🧰 O que estou aprendendo agora
+## Technical Interests
 
-Atualmente, estudando mais sobre:
-- Controle e automação via microcontroladores  
-- Física aplicada à engenharia aeroespacial  
-- Otimização de algoritmos para simulação  
-- Análise estrutural em modelagem 3D  
+* Aerospace Engineering
+* Embedded Systems
+* Drone Stabilization
+* Control Systems
+* PCB Design
+* Digital Electronics
+* Energy Efficiency
+* 3D Modeling
+* Programming
+
+---
+
+## Current Project
+
+### Drone Stabilization Simulation
+
+Developing a simple drone stabilization simulation focused on:
+
+* Flight stabilization concepts
+* PID control fundamentals
+* Sensor simulation
+* Embedded systems integration
+* Control logic experimentation
+
+Future plans include hardware implementation and real sensor integration.
 
 ---
 
-## 🌎 Onde me encontrar
+## Skills
 
-📫 **Email:** campos.th@proton.me  
+### Electronics & Engineering
 
-💼 **LinkedIn:** https://www.linkedin.com/in/thiago-b-campos/ 
+* Circuit analysis
+* PCB design
+* Digital logic
+* Embedded systems fundamentals
+* Electronic prototyping
+* Energy efficiency concepts
 
-💻 **GitHub:** https://github.com/Thiago-B-Campos
+### Programming & Software
+
+* Python
+* C/C++
+* Programming fundamentals
+* Git & GitHub
+* Visual Studio Code
+* Problem solving
+
+### Design & Tools
+
+* Fusion 360
+* 3D modeling
+* Technical documentation
+* Simulation tools
 
 ---
+
+## Courses & Learning
+
+* Harvard CS50
+* Basic Rocket Engineering Courses
+* Electronics and Embedded Systems Studies
+* Digital Systems and Logic
+
+---
+
+## Goals
+
+* Enter ITA
+* Work with aerospace systems and control engineering
+* Develop aerospace and embedded technology projects
+* Improve hardware/software integration skills
+
+---
+
+## Contact
+
+* LinkedIn: md - LinkedIn: [Meu Perfil](https://www.linkedin.com/in/seu-perfil)
+* Email: campos.th@proton.me
+
+---
+
+> Building knowledge through engineering projects.
