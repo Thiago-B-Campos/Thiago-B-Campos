@@ -93,9 +93,7 @@ Future plans include hardware implementation and real sensor integration.
 
 ## Contact
 
-* LinkedIn: md - LinkedIn: [Meu Perfil](https://www.linkedin.com/in/seu-perfil)
+* LinkedIn: [Linkedin](https://www.linkedin.com/in/seu-perfil)
 * Email: campos.th@proton.me
 
 ---
-
-> Building knowledge through engineering projects.
