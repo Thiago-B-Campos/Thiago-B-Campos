@@ -18,7 +18,6 @@ Currently studying Electronics at ETEC.
 
 * Aerospace Engineering
 * Embedded Systems
-* Drone Stabilization
 * Control Systems
 * PCB Design
 * Digital Electronics
@@ -39,8 +38,6 @@ Developing a simple drone stabilization simulation focused on:
 * Sensor simulation
 * Embedded systems integration
 * Control logic experimentation
-
-Future plans include hardware implementation and real sensor integration.
 
 ---
 
